@@ -1,0 +1,14 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "image":"https://img.freepik.com/free-photo/bff-printed-red-hoodie_53876-105408.jpg?size=626&ext=jpg",
+      "name":"Red Hoody",
+      "description":"abc this is men product",
+      "category":"men",
+      "gender":"male"
+      
+    }
+  ]
+ 
+}

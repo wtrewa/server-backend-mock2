@@ -1,0 +1,24 @@
+{
+  "name": "server-backend-mock2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wtrewa/server-backend-mock2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wtrewa/server-backend-mock2/issues"
+  },
+  "homepage": "https://github.com/wtrewa/server-backend-mock2#readme",
+  "dependencies": {
+    "json-server": "^0.17.3"
+  }
+}
